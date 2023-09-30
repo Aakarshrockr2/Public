@@ -1,0 +1,19 @@
+body{
+    background-image: url(Pune-bb.jpg);
+}
+
+p{
+    font-size: x-large;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+button{
+    height: 5%;
+    width: 5%;
+    background: linear-gradient(orange, white, green);
+    color: blue;
+}

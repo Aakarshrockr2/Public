@@ -1,0 +1,13 @@
+i{
+    background: linear-gradient(orange, white, green);
+    color: blue;
+}
+
+button{
+    height: 10%;
+    width: 10%;
+}
+
+body{
+    background-image: url(Taj-Mahal.jpg);
+}
